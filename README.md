@@ -58,32 +58,6 @@ npm run build
 - `⌘ + L` - Open AI chat
 - `Esc` - Go back/close dialogs
 
-## Features in Detail 🔍
-
-### Note Taking
-- Rich text editor with markdown support
-- Real-time preview
-- Character count
-- Auto-saving
-
-### Twitter Thread Mode
-- Character limit enforcement (280 chars)
-- Thread preview
-- Drag to reorder tweets
-- Premium mode to disable character limit
-
-### AI Integration
-- Chat with Claude AI
-- Context-aware responses
-- Add AI suggestions to notes
-- Multiple chat history support
-
-### Organization
-- Create custom folders
-- Drag and drop notes
-- Quick search
-- Sort by date
-
 ## Contributing 🤝
 
 Feel free to open issues and submit PRs. All contributions are welcome!
