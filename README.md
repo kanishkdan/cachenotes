@@ -8,7 +8,6 @@ https://github.com/user-attachments/assets/a9f8bee9-2565-4050-b06b-04aae5f4723f
 ## Features ✨
 
 - **Local Storage**: All notes are saved in your browser - no server, no tracking
-- **Markdown Support**: Write in plain text or use markdown formatting
 - **Twitter Thread Mode**: Craft Twitter threads with character count and preview
 - **AI Integration**: Chat with Claude AI to improve your writing
 - **Folder Organization**: Keep your notes organized in custom folders
